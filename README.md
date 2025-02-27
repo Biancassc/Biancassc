@@ -2,7 +2,7 @@
 Seja bem-vindo(a) ao meu GitHub! 🚀 Aqui você vai encontrar projetos que refletem minha jornada e aprendizado na área de Tecnologia,com foco em Desenvolvimento Front-end e também projetos relacionados ao meu curso de Ciências da Computação.
 
  ## 🧑‍💻 Sobre mim
-💼 Atualmente  estou estagiando no Programa de Bolsas UOL com foco em Front-end, onde desenvolvo minhas habilidades com tecnologias como HTML, CSS e JavaScript.
+💼 Por 6 meses, estagiei no Programa de Bolsas UOL com foco em Front-end, onde desenvolvi minhas habilidades com tecnologias como HTML, CSS e JavaScript,React
 
 🎓 Estudante de Ciências da Computação na Unipe, estou indo para o terceiro período e sempre buscando me aprofundar em novas áreas da tecnologia.
 
